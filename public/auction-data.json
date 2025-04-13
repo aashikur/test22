@@ -61,32 +61,5 @@
     "timeLeft": "9h 45m",
     "bidsCount": 22,
     "image": "https://i.ibb.co.com/gLc3hx4m/Bid7-min.png"
-  },
-  {
-    "id": 15,
-    "title": "Portable Camping Stove",
-    "description": "Compact and lightweight stove for outdoor adventures.",
-    "currentBidPrice": 55.75,
-    "timeLeft": "6h 30m",
-    "bidsCount": 12,
-    "image": "https://i.ibb.co.com/DDHWPdY5/Bid1-min.png"
-  },
-  {
-    "id": 16,
-    "title": "Limited Edition Art Print",
-    "description": "Signed and numbered art print by a renowned artist.",
-    "currentBidPrice": 300.00,
-    "timeLeft": "4d 8h",
-    "bidsCount": 30,
-    "image": "https://i.ibb.co.com/nNC17Syw/Bid2-min.png"
-  },
-  {
-    "id": 17,
-    "title": "Premium Coffee Grinder",
-    "description": "High-quality grinder for freshly ground coffee beans.",
-    "currentBidPrice": 80.00,
-    "timeLeft": "10h 20m",
-    "bidsCount": 16,
-    "image": "https://i.ibb.co.com/wr7yw01y/Bid3-min.png"
   }
 ]
