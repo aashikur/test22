@@ -44,4 +44,4 @@ const Favorite = ({FavoriteList,removeList,TotalPrice,EnableBtn}) => {
     );
 };
 
-export default Favorite;
+// export default Favorite;
