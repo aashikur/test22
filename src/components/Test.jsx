@@ -2,11 +2,6 @@ import React from "react";
 
 const ActiveAuctions = ({ FavoriteList, AuctionData, heartButton, TotalPrice ,FavRemove}) => {
 
-  const btnStyle = {
-    border: '1px solid green'
-  }
-
-
   // console.log(UpdateAuctionData);
   return (
     <div className="bg-[#0c1022] min-h-screen text-white py-10 px-4">
